@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Panell
+  - Panel
+  - wall
+  - Star
+  - Danger
+  - Circle
+  - portal
+  - Deneme
+  - Slider
+  - portal2
+  - End
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arka
+    uniqueID: 2707958565
+    locked: 0
+  - name: orta
+    uniqueID: 3362788025
+    locked: 0
+  - name: on
+    uniqueID: 999287087
+    locked: 0
